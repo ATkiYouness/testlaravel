@@ -1,0 +1,9 @@
+username  admin@test.com
+passwor   123456
+grant_type password
+client_id =2
+client_secret=ADmZ1iBEs65NANd1HHoNUHStyzS5DNoTYhkZF5Jx
+
+YJ7CtXh5kW#N4T113
+
+http://localhost:8000/oauth/token
